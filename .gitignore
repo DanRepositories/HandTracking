@@ -1,1 +1,4 @@
 venv/
+
+# For vim editor
+*.py.swp
