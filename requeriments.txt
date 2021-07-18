@@ -1,0 +1,9 @@
+absl-py==0.13.0
+attrs==21.2.0
+dataclasses==0.8
+mediapipe==0.8.3
+numpy==1.19.3
+opencv-python==4.5.3.56
+pkg-resources==0.0.0
+protobuf==3.17.3
+six==1.16.0
