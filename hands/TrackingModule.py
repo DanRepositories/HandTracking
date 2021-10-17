@@ -7,6 +7,7 @@ class HandDetector():
     self.mpHands = mp.solutions.hands
     self.hands = self.mpHands.Hands(max_num_hands=self.max_hands)
     self.mpDraw = mp.solutions.drawing_utils
+    self.process_function = None
 
 
   def detect_hand(self, imageBGR):
